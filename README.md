@@ -1,4 +1,6 @@
 # polymer-bind-angular
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A angular.js TypeScript directive to get the two-way binding between angular components and polymer components without MutationObservers.
 
 This repo is just to publish the solution that i have used to make Polymer work tightly with angular.js. The people behind the [angular-bind-polymer Directive](https://github.com/eee-c/angular-bind-polymer) also got a solution which uses MutationObservers and probably will get updates.
